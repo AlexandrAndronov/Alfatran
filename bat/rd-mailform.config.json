@@ -1,8 +1,0 @@
-{
-  "useSmtp": false,
-  "host": "stmp.mail.ru",
-  "port": 465,
-  "username": "demo@mail.ru",
-  "password": "",
-  "recipientEmail": "order@alfatran.ru"
-}
